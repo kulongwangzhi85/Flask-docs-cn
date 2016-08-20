@@ -1,0 +1,39 @@
+[submodule "Flask-Babel-cn"]
+	path = Flask-Babel-cn
+	url = ./Flask-Babel-cn/
+[submodule "flask-cache-cn"]
+	path = flask-cache-cn
+	url = ./flask-cache-cn/
+[submodule "flask-dashed-cn"]
+	path = flask-dashed-cn
+	url = ./flask-dashed-cn/
+[submodule "flask-debugtoolbar-cn"]
+	path = flask-debugtoolbar-cn
+	url = ./flask-debugtoolbar-cn/
+[submodule "flask-exceptional-cn"]
+	path = flask-exceptional-cn
+	url = ./flask-exceptional-cn/
+[submodule "Flask-Login-cn"]
+	path = Flask-Login-cn
+	url = ./Flask-Login-cn/
+[submodule "Flask-Mail-cn"]
+	path = Flask-Mail-cn
+	url = ./Flask-Mail-cn/
+[submodule "flask-pymongo-cn"]
+	path = flask-pymongo-cn
+	url = ./flask-pymongo-cn/
+[submodule "Flask-RESTful-cn"]
+	path = Flask-RESTful-cn
+	url = ./Flask-RESTful-cn/
+[submodule "flask-script-cn"]
+	path = flask-script-cn
+	url = ./flask-script-cn/
+[submodule "flask-sqlalchemy-docs-cn"]
+	path = flask-sqlalchemy-docs-cn
+	url = ./flask-sqlalchemy-docs-cn/
+[submodule "Flask-Testing-cn"]
+	path = Flask-Testing-cn
+	url = ./Flask-Testing-cn/
+[submodule "flask-wtf-docs-cn"]
+	path = flask-wtf-docs-cn
+	url = ./flask-wtf-docs-cn/
