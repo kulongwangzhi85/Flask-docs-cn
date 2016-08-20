@@ -40,3 +40,6 @@
 [submodule "Flask_Docs_ZhCn"]
 	path = Flask_Docs_ZhCn
 	url = ./Flask_Docs_ZhCn/
+[submodule "Python-Guide-CN"]
+	path = Python-Guide-CN
+	url = ./Python-Guide-CN/
