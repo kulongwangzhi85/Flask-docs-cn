@@ -37,3 +37,6 @@
 [submodule "flask-wtf-docs-cn"]
 	path = flask-wtf-docs-cn
 	url = ./flask-wtf-docs-cn/
+[submodule "Flask_Docs_ZhCn"]
+	path = Flask_Docs_ZhCn
+	url = ./Flask_Docs_ZhCn/
