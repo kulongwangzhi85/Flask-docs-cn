@@ -43,3 +43,9 @@
 [submodule "Python-Guide-CN"]
 	path = Python-Guide-CN
 	url = ./Python-Guide-CN/
+[submodule "The-Flask-Mega-Tutorial"]
+	path = The-Flask-Mega-Tutorial
+	url = ./The-Flask-Mega-Tutorial/
+[submodule "pythontutorial"]
+	path = pythontutorial
+	url = ./pythontutorial/
