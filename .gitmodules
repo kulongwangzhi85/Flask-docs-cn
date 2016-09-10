@@ -49,3 +49,6 @@
 [submodule "pythontutorial"]
 	path = pythontutorial
 	url = ./pythontutorial/
+[submodule "sphinx-docs-cn"]
+	path = sphinx-docs-cn
+	url = ./sphinx-docs-cn/
